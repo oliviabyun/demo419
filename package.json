@@ -5,6 +5,7 @@
   "main": "demo.js",
   "scripts": {
     "test": "load demo.js"
+    "start": "load demo.js"
   },
   "repository": {
     "type": "git",
